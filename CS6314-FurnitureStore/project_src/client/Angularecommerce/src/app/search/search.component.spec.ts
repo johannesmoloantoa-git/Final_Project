@@ -22,3 +22,4 @@ describe("SearchComponent", () => {
     expect(component).toBeTruthy();
   });
 });
+

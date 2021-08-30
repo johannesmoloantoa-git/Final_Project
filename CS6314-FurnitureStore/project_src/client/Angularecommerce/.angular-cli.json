@@ -3,6 +3,7 @@
   "project": {
     "name": "angularecommerce"
   },
+  
   "apps": [
     {
       "root": "src",

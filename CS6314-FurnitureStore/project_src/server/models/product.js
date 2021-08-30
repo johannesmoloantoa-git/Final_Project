@@ -83,3 +83,5 @@ Model.SetAlgoliaSettings({
 
 //Exporting the wrapped Model(Algolia API + ProductSchema)
 module.exports = Model;
+
+

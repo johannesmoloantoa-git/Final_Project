@@ -1,4 +1,4 @@
-# CS6314-WPL-eCommerceProject
+# CS6314-WPL-eCommerceProject   
 
 #### This is an e-commerce application for a Furniture Store developed using MongoDB, Express.js, Angular.js and Node.js (MEAN Stack).
 

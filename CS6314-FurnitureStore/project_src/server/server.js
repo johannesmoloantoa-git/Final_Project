@@ -42,3 +42,4 @@ app.use("/api/search", productSearchRoutes);
 app.listen(config.port, (err) => {
   console.log("Server Init: <port> " + config.port);
 });
+

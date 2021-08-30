@@ -22,3 +22,4 @@ describe("MessageComponent", () => {
     expect(component).toBeTruthy();
   });
 });
+

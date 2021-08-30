@@ -6,6 +6,7 @@ import { DataService } from "../data.service";
 import { ActivatedRoute } from "@angular/router";
 import { RestApiService } from "../rest-api.service";
 
+
 //component specific details
 @Component({
   selector: "app-home",

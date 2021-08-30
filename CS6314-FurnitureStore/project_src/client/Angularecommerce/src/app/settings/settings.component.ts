@@ -6,6 +6,7 @@ import { Component, OnInit } from "@angular/core";
 import { DataService } from "../data.service";
 import { RestApiService } from "../rest-api.service";
 
+
 //componnet specific details
 @Component({
   selector: "app-settings",

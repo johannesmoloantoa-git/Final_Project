@@ -5,6 +5,7 @@ import { Component, OnInit } from "@angular/core";
 import { RestApiService } from "../rest-api.service";
 import { DataService } from "../data.service";
 
+
 //Component specifications
 @Component({
   selector: "app-categories",

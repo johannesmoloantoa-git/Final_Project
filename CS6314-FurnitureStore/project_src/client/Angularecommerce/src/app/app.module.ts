@@ -2,6 +2,7 @@
 //               It contains app-routing module and several components                         //
 /////////////////////////////////////////////////////////////////////////////////////////////////
 
+
 //Including required modules and Services
 import { BrowserModule } from "@angular/platform-browser";
 import { NgModule } from "@angular/core";

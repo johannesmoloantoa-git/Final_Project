@@ -15,6 +15,7 @@ declare var Parallax: any;
   styleUrls: ["./app.component.scss"],
 })
 
+
 //exporting the AppComponnet for reuse
 export class AppComponent {
   searchTerm = "";
